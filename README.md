@@ -44,6 +44,7 @@ Ocean Protocol implementation is composed by the following projects:
 - [Github Ocean Roadmap](https://github.com/oceanprotocol/ocean/projects/1)
 - [GitHub Technical Issues](https://github.com/oceanprotocol/ocean/projects/2)
 - [Milestones](https://github.com/oceanprotocol/ocean/milestones?direction=asc&sort=due_date&state=open)
+- [OceanProtocol Enhancement Proposals (OEPs)](https://github.com/oceanprotocol/OEPs/)
 
 ## Contributing
 
