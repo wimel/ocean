@@ -27,15 +27,15 @@ Learn how Ocean Protocol works:
 
 ## Projects
 
-Ocean Protocol implementation is composed by the following projects:
+Ocean Protocol implementation is composed of the following projects:
 
-- [Frontend - Pleuston](https://github.com/oceanprotocol/pleuston) - Provides the user interfaces enabling the users to publish, consume and discover Ocean Assets. Application implemented using HTML + Javascript + CSS, running in the client side (user's browser).
+- [Frontend - Pleuston](https://github.com/oceanprotocol/pleuston) - Provides the user interfaces enabling the users to publish, consume and discover Ocean Assets. Application implemented using HTML + Javascript + CSS, running on the client side (user's browser).
 - [Keeper Contracts](https://github.com/oceanprotocol/keeper-contracts) - Solidity Smart Contracts running on the decentralized Ethereum Virtual Machine (EVM).
-- [Provider](https://github.com/oceanprotocol/provider-backend) - Backend application giving some network advanced services. Initially:
+- [Provider](https://github.com/oceanprotocol/provider-backend) - Backend application giving some advanced network services. Initially:
   * On-Chain access control
   * Metadata storage
   * Gathering of service proofs
-- [Datascience](https://github.com/oceanprotocol/plankton-datascience) - Tools allowing to a Data Scientist to interact with Ocean
+- [Datascience](https://github.com/oceanprotocol/plankton-datascience) - Tools allowing a Data Scientist to interact with Ocean Protocol.
 
 
 ## Additional Information
@@ -50,7 +50,7 @@ Ocean Protocol implementation is composed by the following projects:
 
 Ocean Protocol uses [C4 Standard process](https://github.com/unprotocols/rfc/blob/master/1/README.md) to manage changes in the source code.  Find here more details about [Ocean C4 OEP](https://github.com/oceanprotocol/OEPs/tree/master/1).
 
-We use GitHub as a means for maintaining and tracking issues, roadmap and source code development.
+We use GitHub as a means of maintaining and tracking issues, roadmap and source code development.
 
 If you would like to contribute, please check the [Contributing](CONTRIBUTING.md) page.
 
