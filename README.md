@@ -37,6 +37,10 @@ Ocean Protocol implementation is composed by the following projects:
   * Gathering of service proofs
 - [Datasciense](https://github.com/oceanprotocol/plankton-datascience) - Tools allowing to a Data Scientist to interact with Ocean
 
+## Running Ocean
+
+Each Ocean component can be installed or executed independently (see instructions in the different repos).
+But if you want to try quickly, you can use the existing Docker images or the Docker Compose that you can find in the [docker-images repository](https://github.com/oceanprotocol/docker-images).
 
 ## Additional Information
 
