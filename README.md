@@ -49,6 +49,7 @@ But if you want to try quickly, you can use the existing Docker images or the Do
 - [GitHub Technical Issues](https://github.com/oceanprotocol/ocean/projects/2)
 - [Milestones](https://github.com/oceanprotocol/ocean/milestones?direction=asc&sort=due_date&state=open)
 - [OceanProtocol Enhancement Proposals (OEPs)](https://github.com/oceanprotocol/OEPs/)
+- [Ocean Engineering](https://github.com/oceanprotocol/dev-ocean)
 
 ## Contributing
 
