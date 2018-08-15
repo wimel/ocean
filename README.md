@@ -31,11 +31,11 @@ Ocean Protocol implementation is composed of the following projects:
 
 - [Frontend - Pleuston](https://github.com/oceanprotocol/pleuston) - Provides the user interfaces enabling the users to publish, consume and discover Ocean Assets. Application implemented using HTML + Javascript + CSS, running on the client side (user's browser).
 - [Keeper Contracts](https://github.com/oceanprotocol/keeper-contracts) - Solidity Smart Contracts running on the decentralized Ethereum Virtual Machine (EVM).
-- [Provider](https://github.com/oceanprotocol/provider-backend) - Backend application giving some advanced network services. Initially:
+- [Provider](https://github.com/oceanprotocol/provider-provider) - Backend application giving some advanced network services. Initially:
   * On-Chain access control
   * Metadata storage
   * Gathering of service proofs
-- [Datascience](https://github.com/oceanprotocol/plankton-datascience) - Tools allowing a Data Scientist to interact with Ocean Protocol.
+- [Data Science Tools](https://github.com/oceanprotocol/nautilina) - Tools allowing a Data Scientist to interact with Ocean Protocol.
 
 ## Running Ocean
 
