@@ -30,13 +30,18 @@ Learn how Ocean Protocol works:
 Ocean Protocol implementation is composed of the following projects:
 
 - [Frontend - Pleuston](https://github.com/oceanprotocol/pleuston) - Provides the user interfaces enabling the users to publish, consume and discover Ocean Assets. Application implemented using HTML + Javascript + CSS, running on the client side (user's browser).
-- [Keeper Contracts](https://github.com/oceanprotocol/keeper-contracts) - Solidity Smart Contracts running on the decentralized Ethereum Virtual Machine (EVM).
-- [Provider](https://github.com/oceanprotocol/provider) - Backend application giving some advanced network services. Initially:
+- [Blockchain - Keeper Contracts](https://github.com/oceanprotocol/keeper-contracts) - Solidity Smart Contracts running on the decentralized Ethereum Virtual Machine (EVM).
+- [Backend - Provider](https://github.com/oceanprotocol/provider) - Backend application giving some advanced network services. Initially:
   * On-Chain access control
   * Metadata storage
   * Gathering of service proofs
-- [Data Science Tools](https://github.com/oceanprotocol/nautilina) - Tools allowing a Data Scientist to interact with Ocean Protocol.
-
+- [Data Science Tools - Nautilina](https://github.com/oceanprotocol/nautilina) - Tools allowing a Data Scientist to interact with Ocean Protocol.
+- [Library - Squid](https://github.com/oceanprotocol/dev-ocean/blob/master/doc/development/squid.md) - Library to interact with Ocean Protocol.
+  * [Squid JavaScript](https://github.com/oceanprotocol/squid-js) Squid JavaScript version.
+  * [Squid Python](https://github.com/oceanprotocol/squid-py) Squid Pyhton version.
+  * [Squid Java](https://github.com/oceanprotocol/squid-java) Squid Java version.
+  * [Squid samples - Tuna](https://github.com/oceanprotocol/tuna) A collection of squid sample implementations to get a quick start.
+  
 ## Running Ocean
 
 Each Ocean component can be installed or executed independently (see instructions in the different repos).
