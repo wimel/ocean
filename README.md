@@ -23,7 +23,7 @@ Ocean Protocol implementation is composed of multiple projects. Have a look at o
 
 Each Ocean component can be installed or executed independently (see instructions in the different repos).
 
-But if you want to try quickly, you can bring up the full Ocean network stack with Docker:
+But if you want to try everything quickly, you can bring up the full Ocean network stack with Docker:
 
 - **[Docs: Quickstart](https://docs.oceanprotocol.com/setup/quickstart/)**
 
